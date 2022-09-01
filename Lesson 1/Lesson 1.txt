@@ -1,0 +1,41 @@
+practise_task_lesson1.py
+# A M Sloane
+# Practise task - variables, print, data type,
+
+# Variable
+
+
+firstname = "Anders"
+height = 1.79
+address = "18 hector street"
+phone = "0214740459"
+hasAllergy = False
+
+# A summary of this information should be printed out to the screen.
+
+print(name)
+print(Height)
+print(address)
+print(phone)
+print(hasAllergy)
+
+# Clarifying the problem
+# decide on the name variable
+fullname = "Anders Medlicott-Sloane"
+firstname = "Anders"
+lastname = "Medlicott-Sloane"
+
+# define the height measurement
+# Metres
+height = 1.79
+
+# define address
+# street number and name
+# address requires ONLY suburb
+address = "18 hector street"
+
+#phone Landline or mobile
+phone = "0214740459"
+
+# Allergy
+hasAllergy = False
